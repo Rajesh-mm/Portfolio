@@ -50,14 +50,6 @@ const Uiux = () => {
                 </div>
                 </div>
 
-                <div className="skills__data">
-                <i class="bx bx-badge-check"></i>
-
-                <div>
-                    <h3 className="skills__name">Wireframing</h3>  {/*Important*/}
-                </div>
-                </div>
-
             </div>
         </div>
     </div>
