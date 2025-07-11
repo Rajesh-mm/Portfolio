@@ -5,7 +5,7 @@ const Data = () => {
     <div className="home__data">
         <h1 className="home__title">Rajesh M Mysoremath</h1>
         <h3 className="home__subtitle">UI/UX Designer</h3>
-        <p className="home__description">I strive to create visually appealing and user-friendly websites that provide an exceptional user experience.</p>
+        <p className="home__description">I’m a UX Designer focused on simplifying real problems through clean, usable design. I turn early ideas into thoughtful, working solutions that balance user needs and business goals.</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello
