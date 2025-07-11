@@ -19,7 +19,11 @@ export const About = () => {
 
 
             <p className="about__description">
-                I am a UX Designer currently working at Embitel Technologies, with prior experience as a UI/UX intern. I specialize in designing user-centric interfaces and optimizing user experiences.
+                I'm a UX Designer with a background in Computer Science, currently working at Embitel Technologies. I transitioned into design because I enjoy solving real problems with practical solutions that make everyday experiences easier and more meaningful.
+              My process usually starts with understanding user needs and business goals, followed by simplifying complex flows and iterating through wireframes, UI drafts, and feedback loops. I care a lot about clarity, structure, and making sure people don’t have to think too hard to get things done.
+            </p>
+            <p className="about__description">
+              Outside of work, I enjoy learning new tools, sketching early concepts, and playing the guitar when I want to unplug. I'm excited by teams that value design early in the product lifecycle and are open to experimenting, failing, learning, and improving fast.
             </p>
 
             <a download="" href={Resume} className="button button--flex">
