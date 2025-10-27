@@ -4,11 +4,11 @@ const Data = () => {
   return (
     <div className="home__data">
         <h1 className="home__title">Rajesh M Mysoremath</h1>
-        <h3 className="home__subtitle">UI/UX Designer</h3>
-        <p className="home__description">I’m a UX Designer focused on simplifying real problems through clean, usable design. I turn early ideas into thoughtful, working solutions that balance user needs and business goals.</p>
+        <h3 className="home__subtitle">UX Designer</h3>
+        <p className="home__description">I’m a UX Designer focused on simplifying real-world problems through clear, usable design. I turn ideas into thoughtful solutions that balance user needs with business goals.</p>
 
         <a href="#contact" className="button button--flex">
-            Say Hello
+            Let’s Connect
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
