@@ -78,7 +78,9 @@
   /* for medium devices */
   @media screen and (max-width: 576px) {
     .about__info {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: 1fr;
+        justify-items: center;
+        text-align: center;
     }
 
     .about__description {
