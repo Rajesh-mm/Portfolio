@@ -28,7 +28,7 @@ const Contact = () => {
                 <h3 className="contact__card-title">Phone</h3>
                 <span className="contact__card-data"> +91 8431157174</span>
                   
-                  <a href="tel:+918431157174" >
+                  <a href="tel:+918431157174" className="contact__button">
                     Contact me{" "}
                     <i className="bx bx-right-arrow-alt contact__button-icon"></i>{" "}
                   </a>
