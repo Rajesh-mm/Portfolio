@@ -21,6 +21,10 @@ const Footer = () => {
                 <li>
                     <a href="#qualification" className="footer__link">Qualifications</a>
                 </li>
+              
+                <li>
+                    <a href="#contact" className="footer__link">Contact</a>
+                </li>
             </ul>
 
             <div className="footer__social">
@@ -33,7 +37,7 @@ const Footer = () => {
                 </a>
             </div>
 
-            <span className="footer__copy">&#169; RajeshMMPortfolio. All Rights Reserved.</span>
+            <span className="footer__copy">&#169; Rajesh M Mysoremath. All Rights Reserved.</span>
         </div>
     </footer>
   )
