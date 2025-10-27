@@ -19,11 +19,14 @@ export const About = () => {
 
 
             <p className="about__description">
-              I’m a UX Designer with a Computer Science background, currently working at Embitel Technologies. I enjoy simplifying real problems through clear, usable design that supports both users and business needs.            </p>
+              I’m a UX Designer with a background in Computer Science, currently working at Embitel Technologies. I focus on turning complex problems into clear and usable design solutions that support both users and business goals.            </p>
             <p className="about__description">
-              My process involves understanding the problem, sketching early solutions, and refining based on feedback. I care about clarity, structure, and creating designs that feel effortless to use.            </p>
+              My process begins with understanding the problem, exploring different possibilities, and sketching early ideas. I refine these solutions through user feedback, usability insights, and close collaboration with development teams to ensure designs are practical and consistent.            </p>
             <p className="about__description">
-              Outside of work, I explore design tools, sketch ideas, and play guitar to unwind.
+              I care deeply about clarity, structure, and accessibility in every design I create. My goal is to build digital experiences that feel intuitive, reliable, and effortless to use.
+            </p>
+            <p className="about__description">
+              Outside of work, I love experimenting with new design tools, sketching fresh ideas, and playing the guitar to unwind and recharge creatively.
             </p>
             <a download="" href={Resume} className="button button--flex">
                 Download Resume
